@@ -49,6 +49,25 @@ Pexels
 LoremPicsum
 ```
 
+
+## Features
+
+1. User can post a new seek or host ad
+2. User can interact with other users on discussion platforms
+3. User can interact with a particular seek or host request
+4. user can search for host or seek requests through the map
+
+<br>
+
+## Limitations
+
+1. Not responsive yet and might not be properly visible on small screen devices
+2. Lottie animations might not work for some users (during editing)
+3. Map might not load for some users
+
+<br>
+
+
 ## Screenshots
  
 ![home](https://user-images.githubusercontent.com/39058941/115980813-38744000-a5ad-11eb-84ee-11823f9dad9f.png)
